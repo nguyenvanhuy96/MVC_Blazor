@@ -1,0 +1,14 @@
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.DataAccess\bin\Debug\net6.0\IMS.DataAccess.deps.json
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.DataAccess\bin\Debug\net6.0\IMS.DataAccess.runtimeconfig.json
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.DataAccess\bin\Debug\net6.0\IMS.DataAccess.dll
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.DataAccess\bin\Debug\net6.0\IMS.DataAccess.pdb
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.DataAccess\obj\Debug\net6.0\IMS.DataAccess.csproj.AssemblyReference.cache
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.DataAccess\obj\Debug\net6.0\IMS.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.DataAccess\obj\Debug\net6.0\IMS.DataAccess.AssemblyInfoInputs.cache
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.DataAccess\obj\Debug\net6.0\IMS.DataAccess.AssemblyInfo.cs
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.DataAccess\obj\Debug\net6.0\IMS.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.DataAccess\obj\Debug\net6.0\IMS.DataAccess.dll
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.DataAccess\obj\Debug\net6.0\refint\IMS.DataAccess.dll
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.DataAccess\obj\Debug\net6.0\IMS.DataAccess.pdb
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.DataAccess\obj\Debug\net6.0\IMS.DataAccess.genruntimeconfig.cache
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.DataAccess\obj\Debug\net6.0\ref\IMS.DataAccess.dll

@@ -1,0 +1,12 @@
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Model\bin\Debug\net6.0\IMS.Model.deps.json
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Model\bin\Debug\net6.0\IMS.Model.dll
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Model\bin\Debug\net6.0\IMS.Model.pdb
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Model\obj\Debug\net6.0\IMS.Model.csproj.AssemblyReference.cache
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Model\obj\Debug\net6.0\IMS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Model\obj\Debug\net6.0\IMS.Model.AssemblyInfoInputs.cache
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Model\obj\Debug\net6.0\IMS.Model.AssemblyInfo.cs
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Model\obj\Debug\net6.0\IMS.Model.csproj.CoreCompileInputs.cache
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Model\obj\Debug\net6.0\IMS.Model.dll
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Model\obj\Debug\net6.0\refint\IMS.Model.dll
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Model\obj\Debug\net6.0\IMS.Model.pdb
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Model\obj\Debug\net6.0\ref\IMS.Model.dll

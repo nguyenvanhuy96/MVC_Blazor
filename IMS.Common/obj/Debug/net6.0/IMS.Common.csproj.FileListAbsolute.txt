@@ -1,0 +1,12 @@
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Common\bin\Debug\net6.0\IMS.Common.deps.json
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Common\bin\Debug\net6.0\IMS.Common.dll
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Common\bin\Debug\net6.0\IMS.Common.pdb
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Common\obj\Debug\net6.0\IMS.Common.csproj.AssemblyReference.cache
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Common\obj\Debug\net6.0\IMS.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Common\obj\Debug\net6.0\IMS.Common.AssemblyInfoInputs.cache
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Common\obj\Debug\net6.0\IMS.Common.AssemblyInfo.cs
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Common\obj\Debug\net6.0\IMS.Common.csproj.CoreCompileInputs.cache
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Common\obj\Debug\net6.0\IMS.Common.dll
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Common\obj\Debug\net6.0\refint\IMS.Common.dll
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Common\obj\Debug\net6.0\IMS.Common.pdb
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.Common\obj\Debug\net6.0\ref\IMS.Common.dll
