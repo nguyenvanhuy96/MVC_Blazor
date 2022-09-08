@@ -67,3 +67,7 @@ C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.WebApp2\obj\Debug\net6.0\IMS.WebApp2
 C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.WebApp2\obj\Debug\net6.0\ref\IMS.WebApp2.dll
 C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.WebApp2\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.WebApp2\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.WebApp2\bin\Debug\net6.0\IMS.Business.dll
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.WebApp2\bin\Debug\net6.0\IMS.Model.dll
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.WebApp2\bin\Debug\net6.0\IMS.Business.pdb
+C:\Users\HUY NGUYEN\Desktop\IMS.WebApp2\IMS.WebApp2\bin\Debug\net6.0\IMS.Model.pdb

@@ -17,7 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\IMS.DataAccess\IMS.DataAccess.csproj" />
+    <ProjectReference Include="..\IMS.Business\IMS.Business.csproj" />
+    <ProjectReference Include="..\IMS.Model\IMS.Model.csproj" />
   </ItemGroup>
 
 </Project>

@@ -12,8 +12,8 @@ namespace IMS.Business.Repository.IRepository
         public Task<CategoryDTO> CreateCategory(CategoryDTO categoryDTO);
         public Task<CategoryDTO> UpdateCategory(int categoryId, CategoryDTO categoryDTO);
         public Task<CategoryDTO> GetCategory(int categoryId);
-        public Task<int> DeleteCategory(int roomId);
-        public Task<IEnumerable<CategoryDTO>> GetAllCategories();
+        public Task<int> DeleteCategory(int categoryId);
+        public Task<IEnumerable<CategoryDTO>> GetAllCategories(string catname="");
         public Task<CategoryDTO> IsRoomUnique(string name);
 
     }

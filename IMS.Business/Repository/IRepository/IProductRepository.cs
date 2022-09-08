@@ -9,11 +9,11 @@ namespace IMS.Business.Repository.IRepository
 {
     public interface IProductRepository
     {
-        public Task<ProductDTO> CreateProduct(ProductDTO categoryDTO);
-        public Task<ProductDTO> UpdateProduct(int categoryId, ProductDTO categoryDTO);
-        public Task<ProductDTO> GetProduct(int categoryId);
-        public Task<int> DeleteProduct(int roomId);
-        public Task<IEnumerable<ProductDTO>> GetAllProducts();
+        public Task<ProductDTO> CreateProduct(ProductDTO productDTO);
+        public Task<ProductDTO> UpdateProduct(int productId, ProductDTO productDTO);
+        public Task<ProductDTO> GetProduct(int productId);
+        public Task<int> DeleteProduct(int productId);
+        public Task<IEnumerable<ProductDTO>> GetAllProducts(string prodName="");
         public Task<ProductDTO> IsRoomUnique(string name);
     }
 }

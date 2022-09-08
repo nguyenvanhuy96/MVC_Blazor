@@ -42,13 +42,19 @@ namespace IMS.Business.Repository
             return 0;
         }
 
-        public async Task<IEnumerable<CategoryDTO>> GetAllCategories()
+        public async Task<IEnumerable<CategoryDTO>> GetAllCategories(string catname = "")
         {
             try
             {
                 IEnumerable<CategoryDTO> categoryDTOs =
                     _mapper.Map<IEnumerable<Category>, IEnumerable<CategoryDTO>>(_db.Categories);
-                return categoryDTOs;
+                if (string.IsNullOrEmpty(catname) )
+                {
+                    return categoryDTOs;
+                }
+                else {
+                    return categoryDTOs.Where(k => k.Name.ToLower().IndexOf(catname.ToLower()) >= 0);    
+                }
             }
             catch (Exception)
             {

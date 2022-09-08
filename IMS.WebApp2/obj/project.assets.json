@@ -6331,7 +6331,7 @@
       "AutoMapper >= 11.0.1",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 11.0.0",
       "IMS.Business >= 1.0.0",
-      "IMS.DataAccess >= 1.0.0",
+      "IMS.Model >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.8"
     ]
@@ -6366,8 +6366,8 @@
             "C:\\Users\\HUY NGUYEN\\Desktop\\IMS.WebApp2\\IMS.Business\\IMS.Business.csproj": {
               "projectPath": "C:\\Users\\HUY NGUYEN\\Desktop\\IMS.WebApp2\\IMS.Business\\IMS.Business.csproj"
             },
-            "C:\\Users\\HUY NGUYEN\\Desktop\\IMS.WebApp2\\IMS.DataAccess\\IMS.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\HUY NGUYEN\\Desktop\\IMS.WebApp2\\IMS.DataAccess\\IMS.DataAccess.csproj"
+            "C:\\Users\\HUY NGUYEN\\Desktop\\IMS.WebApp2\\IMS.Model\\IMS.Model.csproj": {
+              "projectPath": "C:\\Users\\HUY NGUYEN\\Desktop\\IMS.WebApp2\\IMS.Model\\IMS.Model.csproj"
             }
           }
         }

@@ -1,0 +1,27 @@
+﻿
+@inject ICategoryRepository CategoryRepository
+<table class="table">
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Description</th>
+			<th>Image</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		<ListItemCategoryComponent categories="categories"></ListItemCategoryComponent>
+	</tbody>
+</table>
+
+
+@code {
+	private List<CategoryDTO> categories = new List<CategoryDTO>();
+	[Parameter]
+	public string SearchTerm { get; set; } = string.Empty;
+
+	protected override async Task OnParametersSetAsync()
+	{
+		categories = (await CategoryRepository.GetAllCategories(this.SearchTerm)).ToList();
+	}
+}
